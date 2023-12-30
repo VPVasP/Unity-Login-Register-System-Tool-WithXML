@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserInfoList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <usersInfoList>
+    <UserInfo>
+      <username>ExampleUser</username>
+      <password>12345</password>
+    </UserInfo>
+    <UserInfo>
+      <username>ExampleUser2</username>
+      <password>12345</password>
+    </UserInfo>
+  </usersInfoList>
+</UserInfoList>
