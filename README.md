@@ -12,7 +12,7 @@ The Unity Login Register System with XML offers user authentication for Unity ga
 
 ## Features:
 
-- **User Registration:** Allow users to register by providing a username and password within the specified length constraints.
+- **User Registration:** Allow users to register by providing a username and password.
 - **Login Functionality:** Enable users to log using their registered credentials.
 - **Password Visibility Toggle:** Enhance user experience with an option to toggle the password visibility.
-- **XML Data Management:** Save and load user data seamlessly using XML.
+- **XML Data Management:** Save and load user data using XML.
