@@ -1,5 +1,6 @@
 # Unity Login Register System with XML
 A Unity Game Engine Login Register System With XML. It has multiple features such as: Minimum-Maximum Username,Password Length that the unity user can put the values to their liking. Toggle to show the password. The saving logic is being handled by XML.
+-  Technologies Used:Unity, C#, XML
 -  You can download the Unity Package and add it into your Project on Itch.io: (https://itchiovp.itch.io/unity-login-register-tool-with-xml)
 ## How to Install
 1. Clone this GitHub Repository to your computer.
